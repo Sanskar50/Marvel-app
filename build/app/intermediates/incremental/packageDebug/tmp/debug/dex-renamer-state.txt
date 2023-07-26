@@ -1,0 +1,4 @@
+#Tue Jul 25 21:47:11 IST 2023
+base.0=C\:\\Users\\DELL-PC\\OneDrive\\Documents\\flutter_windows_3.10.1-stable\\Projects-Android\\marvel_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
