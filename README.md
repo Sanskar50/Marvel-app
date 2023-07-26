@@ -1,16 +1,11 @@
 # marvel_app
 
-A new Flutter project.
+A marvel charcter image viewer app
 
-## Getting Started
+<div>
+<img src="https://github.com/Sanskar50/Marvel-app/assets/99363431/34a72bfc-e8fb-45c0-b45d-c95722934974" height="500" width="" />
+  
+<img src="https://github.com/Sanskar50/Marvel-app/assets/99363431/8aaebc70-9077-4c71-b672-74a2d5c86546" height="500" width="" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Sanskar50/Marvel-app/assets/99363431/61e762da-1abb-40fa-8a05-f9dd179b1fb2" height="500" width="" />
+</div>
