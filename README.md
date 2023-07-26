@@ -1,6 +1,6 @@
 # marvel_app
 
-A marvel charcter image viewer app
+A marvel character image viewer app
 
 <div>
 <img src="https://github.com/Sanskar50/Marvel-app/assets/99363431/34a72bfc-e8fb-45c0-b45d-c95722934974" height="500" width="" />
